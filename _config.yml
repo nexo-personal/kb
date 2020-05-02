@@ -5,5 +5,5 @@ logo: "/assets/img/logo.png"
 
 title: neXo knowledge base
 description: The neXo products knowledge base
-baseurl: "/a/" # the subpath of your site, e.g. /blog
-url: "https://davidegallesi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/kb" # the subpath of your site, e.g. /blog
+url: "https://nexogit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
