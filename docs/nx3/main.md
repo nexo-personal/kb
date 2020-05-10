@@ -25,15 +25,15 @@ Per qualsiasi indicazione riguardo la programmazione CODESYS è possibile consul
 
 ## Collegamenti
 
-<div style="text-align:center"><img src="nx3/img/top_small.png" width="40%"/></div>
+<div style="text-align:center"><img src="img/top_small.png" width="40%"/></div>
 
 
 |*Simbolo*	 		|*Funzione* 							|*Alternativa*	|
-|:-----------:		|:-------------: 						|:-:				|
+|:-----------:		|:-------------: 						|:-:			|
 |**+**		     	| power supply +24VDC        			|				|
 |**-**	         	| power supply 0VDC          			|				|
 |**PE**		     	| power supply ground connection		|				|
-|**-->**				| watchdog relè output					|   			|				
+|**-->**			| watchdog relè output					|   			|				
 |**-->**         	| watchdog relè output		  			|				|
 |**ETH0**		    | ethernet for realtime					|       		|				
 |**ETH1**		    | ethernet 								|       		|				
@@ -64,7 +64,6 @@ Il led frontale multicolore è posizionato a destra della microSD card e assume 
 |**rosso**			| applicazione CODESYS in exception			|
 |**spento**			| tensione sotto i 19 volt					|
 
-\newpage
 
 ## Memoria ritentiva
 
