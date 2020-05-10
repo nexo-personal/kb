@@ -3,7 +3,6 @@ layout: default
 title: Hardware
 nav_order: 3
 parent: nx3
-permalink: /docs/nx3
 ---
 
 # Hardware

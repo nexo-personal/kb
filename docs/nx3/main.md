@@ -2,6 +2,7 @@
 layout: default
 title: nX3
 nav_order: 2
+has_children: true
 permalink: /docs/nx3
 ---
 
