@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hardware
+parent: main
 nav_order: 3
 parent: nx3
 ---
