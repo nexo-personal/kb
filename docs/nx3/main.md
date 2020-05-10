@@ -25,7 +25,7 @@ Per qualsiasi indicazione riguardo la programmazione CODESYS è possibile consul
 
 ## Collegamenti
 
-<div style="text-align:center"><img src="img/top_small.png" width="40%"/></div>
+<div style="text-align:center"><img src="/nx3/img/top_small.png" width="40%"/></div>
 
 
 |*Simbolo*	 		|*Funzione* 							|*Alternativa*	|
@@ -52,7 +52,7 @@ Per qualsiasi indicazione riguardo la programmazione CODESYS è possibile consul
 
 Il led frontale multicolore è posizionato a destra della microSD card e assume un colore diverso a seconda degli stati del controllore. Nella tabella di seguito i possibili stati del controllore e relativa segnalazione.
 
-<div style="text-align:center"><img src="img/led.png" width="50%"/></div>
+<div style="text-align:center"><img src="/nx3/img/led.png" width="50%"/></div>
 
 
 
@@ -97,7 +97,7 @@ Un volta creato un progetto per nX3 è possibile, editando il nodo device e sele
 consentono di impostare alcuni funzionamenti del controllore.
 
 
-<div style="text-align:center"><img src="img/ParametrinX3.jpg" /></div>
+<div style="text-align:center"><img src="/nx3/img/ParametrinX3.jpg" /></div>
 
 
 **BusSpeed**
@@ -121,7 +121,7 @@ costantemente il corretto funzionamento di hardware e software.
 Editando il nodo device e selezionando la sheet *nX3 CPU I/O Mapping* è possibile verificare che è mappata automaticamente una variabile ti tipo BOOL con nome Watchdog. Se lo si desidera in questa sheet è possibile cambiare nome alla varabile.
 
 
-<div style="text-align:center"><img src="img/Watchdog.jpg" /></div>
+<div style="text-align:center"><img src="/nx3/img/Watchdog.jpg" /></div>
 
 
 Per attivare il watchdog è sufficiente aggiungere la seguente linea di codice nel task che si ritiene rilevante per l'esecuzione della propria automazione.
