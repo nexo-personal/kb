@@ -2,6 +2,7 @@
 layout: default
 title: Hardware
 nav_order: 3
+parent: nx3
 permalink: /docs/nx3
 ---
 
@@ -19,7 +20,7 @@ permalink: /docs/nx3
 |**PE**		     	| power supply ground connection		|				|
 |**-->**			| watchdog relè output					|   			|				
 |**-->**         	| watchdog relè output		  			|				|
-|****ETH0****		    | ethernet for realtime					|       		|				
+|****ETH0****		| ethernet for realtime					|       		|				
 |***ETH1***		    | ethernet 								|       		|				
 |**CAN H** [^1]	    | CAN High (in CODESYS CAN0)			|      			|				
 |**CAN L**		    | CAN low  								|     			|				
