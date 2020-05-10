@@ -10,7 +10,7 @@ parent: nX3
 
 ## Collegamenti
 
-<div style="text-align:center"><img src="nx3/img/top_small.png" width="40%"/></div>
+<div style="text-align:center"><img src="img/top_small.png" width="40%"/></div>
 
 
 |*Simbolo*	 		|*Funzione* 							|*Alternativa*	|
