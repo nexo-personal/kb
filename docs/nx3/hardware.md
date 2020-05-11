@@ -28,8 +28,8 @@ parent: nX3
 |**PE**		     	| power supply ground connection		|				|
 |**-->**			| watchdog relè output					|   			|				
 |**-->**         	| watchdog relè output		  			|				|
-|****ETH0****		| ethernet for realtime					|       		|				
-|***ETH1***		    | ethernet 								|       		|				
+|**ETH0**			| ethernet for realtime					|       		|				
+|**ETH1**		    | ethernet 								|       		|				
 |**CAN H** [^1]	    | CAN High (in CODESYS CAN0)			|      			|				
 |**CAN L**		    | CAN low  								|     			|				
 |**1** [^2]			| CAN High 								| RS485 +      	|
@@ -45,7 +45,7 @@ parent: nX3
 
 Il led frontale multicolore è posizionato a destra della microSD card e assume un colore diverso a seconda degli stati del controllore. Nella tabella di seguito i possibili stati del controllore e relativa segnalazione.
 
-<div style="text-align:center"><img src="nx3/img/led.png" width="50%"/></div>
+<div style="text-align:center"><img src="img/led.png" width="50%"/></div>
 
 
 
@@ -73,7 +73,7 @@ END_VAR
 Qui un esempio di dichiarazione di variabile ritentiva globale in GVL
 
 ```python
-	VAR_GLOBAL RETAIN
+VAR_GLOBAL RETAIN
 	gvarRem1 : INT;
 END_VAR
 ```
