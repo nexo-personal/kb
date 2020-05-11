@@ -6,6 +6,14 @@ nav_order: 3
 parent: nX3
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+***
+
 # Hardware
 
 ## Collegamenti

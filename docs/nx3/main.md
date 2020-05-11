@@ -6,15 +6,6 @@ has_children: true
 permalink: /docs/nx3
 ---
 
-
-{: .fs-6 .fw-300 }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 # Generale
 
 nX3 è un controllore avanzato per automazione industriale programmabile con CODESYS. È stato pensato per soddisfare una vasta gamma di esigenze applicative, può essere utilizzato come semplice controllore logico o come motion controller avanzato grazie alla completa integrazione delle librerie di Softmotion, CNC e robotica di CODESYS.
