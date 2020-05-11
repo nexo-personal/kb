@@ -14,4 +14,4 @@ nX3 è un controllore avanzato per automazione industriale programmabile con COD
 
 Questo manuale descrive le funzioni hardware e software specifiche del controllore neXo nX3.
 
-Per qualsiasi indicazione riguardo la programmazione CODESYS è possibile consultare l'[help online di CODESYS](help.codesys.com.)
+Per qualsiasi indicazione riguardo la programmazione CODESYS è possibile consultare l'[help online di CODESYS](https://help.codesys.com).
