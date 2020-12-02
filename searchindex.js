@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index","usage/start"],envversion:53,filenames:["index.txt","usage/start.txt"],objects:{},objnames:{},objtypes:{},terms:{content:0,index:0,modul:0,page:0,pagina:1,questa:1,search:0,start:0,usag:[]},titles:["Welcome to test\u2019s documentation!","Start"],titleterms:{document:0,indic:0,start:1,tabl:0,test:0,welcom:0}})
